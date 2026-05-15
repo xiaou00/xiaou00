@@ -20,12 +20,14 @@
 
 ## GitHub 统计
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=xiaou0&show_icons=true&theme=default" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xiaou00&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaou0&layout=compact&theme=default" alt="Top Languages" />
+## Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaou00&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
