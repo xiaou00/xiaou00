@@ -32,6 +32,14 @@
 ```
 xiaou0qwq@gmail.com
 ```
+QQ
+```
+2440222584
+```
+Discord
+```
+xiao_u0
+```
 
 ## 技术栈
 
