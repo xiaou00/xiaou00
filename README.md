@@ -18,17 +18,13 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 </p>
 
-## GitHub 统计
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiaou00&show_icons=true&theme=transparent&hide_border=true" />
-</p>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaou00&show_icons=true&theme=transparent&hide_border=true)](https://github.com/xiaou00)
 
 ## Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaou00&layout=compact&theme=transparent&hide_border=true" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaou00&layout=compact&theme=transparent&hide_border=true)](https://github.com/xiaou00)
 
 ---
 
