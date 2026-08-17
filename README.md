@@ -2,6 +2,7 @@
 
 ## whoami? / 自我介绍区
 
+![](selfintro.png)
 
 Student of Aalto University, Mathematics.
 
@@ -10,6 +11,8 @@ Student of Aalto University, Mathematics.
 Programmer & competitive programmer, OIer.
 
 业余程序员, OIer.
+
+~~人设是一个小正太堕天使 (你知道的太多了)~~
 
 ## Main Interests / 兴趣方向
 
