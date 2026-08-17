@@ -1,5 +1,23 @@
 # This is "xiaou0"
 
+## whoami? / 自我介绍区
+
+Student of Aalto University, Mathematics.
+
+阿尔托大学的数学系学生.
+
+Programmer & competitive programmer, OIer.
+
+业余程序员, OIer.
+
+## Main Interests / 兴趣方向
+
+- Derived & Spectral Algebraic Geometry.
+- $\infty$-Category Theory.
+- Homotopy Theory.
+- Deformation Theory.
+- $K$-Theory.
+
 ## Contact / 联系方式
 
 Email / 邮箱
