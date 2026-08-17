@@ -2,7 +2,7 @@
 
 ## whoami? / 自我介绍区
 
-![](selfintro.png)
+<center><img src="selfintro.png" alt="cover" width="500"/></center>
 
 Student of Aalto University, Mathematics. (2026 Bachelor)
 
