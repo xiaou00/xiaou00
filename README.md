@@ -4,9 +4,9 @@
 
 ![](selfintro.png)
 
-Student of Aalto University, Mathematics.
+Student of Aalto University, Mathematics. (2026 Bachelor)
 
-阿尔托大学的数学系学生.
+26届入学的阿尔托大学的数学系学生.
 
 Programmer & competitive programmer, OIer.
 
