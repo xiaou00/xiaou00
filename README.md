@@ -2,6 +2,8 @@
 
 ## whoami? / 自我介绍区
 
+$$\mathrm{Map}_{\mathsf{PSh}(\mathcal{C})}(h_{\mathcal{C}},F) \simeq F(c)$$
+
 Student of Aalto University, Mathematics.
 
 阿尔托大学的数学系学生.
