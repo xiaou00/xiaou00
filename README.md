@@ -2,7 +2,6 @@
 
 ## whoami? / 自我介绍区
 
-$$\mathrm{Map}_{\mathsf{PSh}(\mathcal{C})}(h_{\mathcal{C}},F) \simeq F(c)$$
 
 Student of Aalto University, Mathematics.
 
@@ -19,6 +18,10 @@ Programmer & competitive programmer, OIer.
 - Homotopy Theory.
 - Deformation Theory.
 - $K$-Theory.
+
+## Motto / 格言
+
+$$\mathrm{Map}_{\mathsf{PSh}_\infty(\mathcal{C})}(h_{\mathcal{C}},F) \simeq F(c)$$
 
 ## Contact / 联系方式
 
