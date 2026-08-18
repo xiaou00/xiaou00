@@ -21,6 +21,7 @@ Programmer & competitive programmer, OIer.
 - Homotopy Theory.
 - Deformation Theory.
 - Motive Theory.
+- $K$-Theory.
 - Langlands Theory.
 
 ## Motto / 格言
