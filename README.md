@@ -20,7 +20,7 @@ Programmer & competitive programmer, OIer.
 - $\infty$-Category Theory.
 - Homotopy Theory.
 - Deformation Theory.
-- $K$-Theory.
+- Motive Theory.
 - Langlands Theory.
 
 ## Motto / 格言
