@@ -21,6 +21,7 @@ Programmer & competitive programmer, OIer.
 - Homotopy Theory.
 - Deformation Theory.
 - $K$-Theory.
+- Langlands Theory.
 
 ## Motto / 格言
 
@@ -39,6 +40,11 @@ QQ
 Discord
 ```
 xiao_u0
+```
+
+Tel
+```
+(+358) 044 933 0495
 ```
 
 ## Tech Stack / 技术栈
